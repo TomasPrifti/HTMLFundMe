@@ -1,0 +1,10 @@
+{
+  "name": "htmlfundmefcc",
+  "version": "1.0.0",
+  "description": "HTML FundMe Project",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
+}
